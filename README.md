@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Denver-Aurora-Centennial Metro Area, CO, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `632485` |
 | Location | Denver-Aurora-Centennial, CO |
 | Category | Restaurants |
-| Full dataset size | 128 records |
-| Free sample size | 3 records (2.34%) |
-| Last export | 2026-03-31T23:48:53.617061+00:00 |
+| Full dataset size | 186 records |
+| Free sample size | 18 records (9.68%) |
+| Last export | 2026-04-15T01:26:58.189021+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-denver-aurora-centennial-metro-area-co-us-sample-632485/releases/download/sample-latest/beamstation_632485_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
