@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2bea788f-efaf-4446-99a6-55823c980419",
+  "export_job_id": "12ad35cb-cb83-4dc7-8731-819edc0876ea",
   "id_short": 632485,
-  "published_at": "2026-04-18T19:33:53Z",
+  "published_at": "2026-04-22T07:47:02Z",
   "repo_name": "the-hhi-monopoly-index-for-denver-aurora-centennial-metro-area-co-us-sample-632485",
   "sample_asset_name": "beamstation_632485_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/632485/beamstation_632485_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "8fe40f0b1b7b85272d4412903915f89cd1a2303c3d125e61cbeb22c945638bc6",
-  "sample_size_bytes": 87624,
-  "total_records": 186
+  "sample_records": 14,
+  "sample_sha256": "2d8eb76b85865b6e43d1fc08e80e87d454b93877dcd9283a87211449bd1f701e",
+  "sample_size_bytes": 72944,
+  "total_records": 146
 }
